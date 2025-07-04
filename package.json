@@ -1,0 +1,15 @@
+{
+  "name": "bot-wa-ai-pairing",
+  "version": "1.0.0",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "dependencies": {
+    "whatsapp-web.js": "^1.25.2",
+    "dotenv": "^16.3.1",
+    "node-fetch": "^3.3.2",
+    "axios": "^1.6.7"
+  }
+}
